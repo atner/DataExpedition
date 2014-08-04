@@ -22,7 +22,7 @@ chapters:
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>CoffeeScript Cookbook &raquo; {{ page.title }}</title>
+    <title>Дата-экспедиции &raquo; {{ page.title }}</title>
     <link type="image/x-icon" rel="shortcut icon" href="/images/favicon.ico">
     <link rel="stylesheet" href="/css/style.css" type="text/css">
   </head>
@@ -31,7 +31,7 @@ chapters:
     <section class="container">
 
       <header class="header">
-        <h1><a class="" href="/"><span class="entypo">&oacute;</span><span class="title ir">CoffeeScript Cookbook</span></a></h1>
+        <h1><a class="" href="/"><span class="entypo">&oacute;</span><span class="title ir">Дата-экспедиции</span></a></h1>
       </header>
 
       <section class="content">
@@ -40,12 +40,13 @@ chapters:
           <h1>{{ page.title }}</h1>
           {{ content }}
         </article>
-
-        <footer class="footer">
-          <p>Is this recipe wrong, incomplete, or non idiomatic? Help fix it by reading the <a href="/contributing">Contributor's Guide</a>!</p>
+      
+      <footer class="footer content-block">
+          <p>Не нашли нужную информацию? Добавьте ее самостоятельно, прочитав инструкцию по добавлению информации здесь: <a href="/contributing">Инструкция</a>.</p><p> Шаблоны этого сайта основаны на проекте 
+          <a href="http://coffeescriptcookbook.com/">CoffeeScript Cookbook</a>.</p>
           <a href="/license"><img src="/images/cc_by_badge.png" /></a>
         </footer>
-      </section>
+      
 
     </section>
 
@@ -53,23 +54,23 @@ chapters:
 
       <section class="sidebar-block block-short">
         <nav class="navigation pages-nav home-nav">
-          <h6><a class="nav-link" href="/"><span class="entypo">&oacute;</span>CoffeeScript Cookbook</a></h6>
-          <small class="thin dimmed">(last updated {{ site.time | date: "%d %B, %Y" }})</small>
+          <h6><a class="nav-link" href="/"><span class="entypo">&oacute;</span>Дата-экспедиции</a></h6>
+          <small class="thin dimmed">(последнее изменение: {{ site.time | date: "%d %B, %Y" }})</small>
         </nav>
       </section>
 
       <section class="sidebar-block">
         <nav class="navigation pages-nav">
           <ul class="plain-list inline-list">
-            <li><a class="nav-link" href="/contributing"><span class="entypo">6</span>Contribute</a></li>
-            <li><a class="nav-link" href="/authors"><span class="entypo">,</span>Authors</a></li>
-            <li><a class="nav-link" href="/license"><span class="entypo">&copy;</span>License</a></li>
+            <li><a class="nav-link" href="/contributing"><span class="entypo">6</span>Участие</a></li>
+            <li><a class="nav-link" href="/authors"><span class="entypo">,</span>Авторы</a></li>
+            <li><a class="nav-link" href="/license"><span class="entypo">&copy;</span>Лицензия</a></li>
           </ul>
         </nav>
       </section>
 
       <section class="sidebar-block">
-        <h5 class="sidebar-title">Chapters Index</h5>
+        <h5 class="sidebar-title">Разделы сайта</h5>
         <ol class="navigation chapters-list">
           {% for chapter in page.chapters %}
             {% capture url %}/chapters/{{ chapter | replace: ' ', '_' | downcase }}{% endcapture %}
