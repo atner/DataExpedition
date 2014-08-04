@@ -1,0 +1,12 @@
+safe: true
+pygments: true
+lsi: false
+markdown: redcarpet
+exclude:
+  - README.md
+  - CNAME
+  - TODO.md
+  - script
+  - Procfile
+  - Gemfile
+  - Gemfile.lock
