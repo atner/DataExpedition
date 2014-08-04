@@ -2,9 +2,9 @@
 layout: default
 title: Contributing
 ---
-# Contributing
+# Участие
 
-The Cookbook needs your help!
+Нам очень нужна Ваша помощь!
 
 Here's the Contribution Recipe:
 
