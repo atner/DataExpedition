@@ -6,22 +6,18 @@
 Участие
 -----------
 
-Вы можете найти информацию об участии [на нашем сайте](http://coffeescriptcookbook.com/contributing). 
+Вы можете найти информацию об участии [на нашем сайте](http://dataexpedition.ru/contributing). 
 
 Полезные ссылки:
 
+* [Markdown](http://daringfireball.net/projects/markdown/)
 * [Contributing](http://coffeescriptcookbook.com/contributing)
 * [Recipe Template](http://coffeescriptcookbook.com/recipe-template)
 * [Author's Guide](http://coffeescriptcookbook.com/authors-guide)
 * [Developer's Guide](http://coffeescriptcookbook.com/developers-guide)
 * [Designer's Guide](http://coffeescriptcookbook.com/designers-guide)
+* [Jekill](http://jekyllrb.com/)
 
-Jekyll
-------
-
-* [Site](http://jekyllrb.com/)
-* [Code](https://github.com/mojombo/jekyll)
-* [Wiki](https://github.com/mojombo/jekyll/wiki)
 
 Лицензия
 --------
