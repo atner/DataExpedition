@@ -16,11 +16,10 @@ title: Authors
 *Эти люди помогают славному делу продвижения Дата-журналистики и Дата-экспедиций*
 
 * Ирина Радченко *iradche@gmail.com*
-* Впищите сюда Ваше имя и помогите прекрасному делу!
-* ...You! What are you waiting for? Check out the [contributing](/contributing) section and get cracking!
+* Впишите сюда Ваше имя и помогите прекрасному делу!
+ 
 
 # Дизайнеры
 
-* [Amsul](http://github.com/amsul) reach@amsul.ca
 * Нам очень нужны дизайнеры!
-* ...You! Check out the [contributing](/contributing) section and get cracking!
+* Загляните вот в раздел [Участие](/contributing) и присоединяйтесь к нашему славному делу!
