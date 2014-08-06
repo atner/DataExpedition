@@ -13,7 +13,7 @@
 И не забывайте вписать свое прекрасное имя в раздел о тех, кто принял участие в разработке нашего ресурса!
 
 Полезные ссылки
-________________
+-----------------
 
 * [Справка по системе Markdown](http://daringfireball.net/projects/markdown/)
 * [Recipe Template](http://coffeescriptcookbook.com/recipe-template)
