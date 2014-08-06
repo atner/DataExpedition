@@ -6,20 +6,26 @@
 Участие
 -----------
 
-Вы можете найти информацию об участии [на нашем сайте](http://dataexpedition.ru/contributing). 
+Нам очень нужна Ваша помощь в развитии платформы для Дата-экспедиций.
 
-Полезные ссылки:
+Вы можете найти информацию о том, как можно принять участие [на нашем сайте](http://dataexpedition.ru/contributing). 
 
-* [Markdown](http://daringfireball.net/projects/markdown/)
-* [Contributing](http://coffeescriptcookbook.com/contributing)
+И не забывайте вписать свое прекрасное имя в раздел о тех, кто принял участие в разработке нашего ресурса!
+
+Полезные ссылки
+________________
+
+* [Справка по системе Markdown](http://daringfireball.net/projects/markdown/)
 * [Recipe Template](http://coffeescriptcookbook.com/recipe-template)
-* [Author's Guide](http://coffeescriptcookbook.com/authors-guide)
-* [Developer's Guide](http://coffeescriptcookbook.com/developers-guide)
-* [Designer's Guide](http://coffeescriptcookbook.com/designers-guide)
-* [Jekill](http://jekyllrb.com/)
-
+* [Инструкция для авторов](http://dataexpedition.ru/authors-guide)
+* [Инструкция для разработчиков](http://dataexpedition.ru/developers-guide)
+* [Инструкция для дизайнеров](http://dataexpedition.ru/designers-guide)
+* [Справка по системе Jekill](http://jekyllrb.com/)
+* [Четко о Jekill на Хабре](http://habrahabr.ru/post/207650/)
+* [Сервис prose.io](http://prose.io/)
 
 Лицензия
 --------
 
-This site and all contributions are [licensed](http://coffeescriptcookbook.com/LICENSE-CC-BY) under the Creative Commons Attribution 3.0 Unported (CC BY 3.0) license. By submitting information to this site you agree to grant this license to all users of the site, and that your editing of the authors page constitutes satisfactory attribution.
+Все материалы распространяются под лицензией [Creative Commons - CC-BY 3.0](http://coffeescriptcookbook.com/LICENSE-CC-BY). 
+Добавляя информацию на этот сайт Вы соглашаетесь с тем, что Ваши материалы будут распространяться под этой лицензией.
